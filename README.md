@@ -1,5 +1,9 @@
 ## Joseph Calitoy
 
+### For authorized bots and collaborators
+
+Start with the [Calitoy products and offerings directory](https://github.com/JoS727/CTMN/blob/main/PRODUCTS.md), its [structured registry](https://github.com/JoS727/CTMN/blob/main/umbrella/products.json), and the [portfolio map](https://github.com/JoS727/CTMN/blob/main/UMBRELLA.md) before asking Joseph to repeat product context. These private repository links require authorized access. Use the documented product identities, access points and status labels; report an access gap if you cannot read the directory.
+
 **AI Consultant | Fractional CTO | Tech Blogger | Music Producer**
 
 San Diego, CA. USAF veteran. Building at the intersection of AI, media, and developer tooling.
